@@ -1,0 +1,16 @@
+{
+  "name": "Stripe OAuth Java 8 example",
+  "description": "Stripe OAuth example with Java 8",
+  "repository": "https://github.com/ob-stripe/example-stripe-java8-oauth",
+  "keywords": ["stripe", "oauth", "connect", "java"],
+  "env": {
+    "STRIPE_DEVELOPMENT_CLIENT_ID": {
+      "description": "Stripe development client ID -- find this at https://dashboard.stripe.com/account/applications/settings (it'll look like ca_****)",
+      "required": true
+    },
+    "STRIPE_TEST_SECRET_KEY": {
+      "description": "Stripe test secret key -- find this at https://dashboard.stripe.com/account/apikeys (it'll look like sk_test_****)",
+      "required": true
+    }
+  }
+}
