@@ -5,11 +5,11 @@
   "keywords": ["stripe", "oauth", "connect", "java"],
   "env": {
     "STRIPE_DEVELOPMENT_CLIENT_ID": {
-      "description": "ca_DPZjtortTrayxu2lalBUbvpk0VLDM18j",
+      "ca_DPZjtortTrayxu2lalBUbvpk0VLDM18j": "Stripe development client ID -- find this at https://dashboard.stripe.com/account/applications/settings (it'll look like ca_****)",
       "required": true
     },
     "STRIPE_TEST_SECRET_KEY": {
-      "description": "sk_test_uFgCJ2UxnOlE03X6cU22LqCs",
+      "sk_test_uFgCJ2UxnOlE03X6cU22LqCs": "Stripe test secret key -- find this at https://dashboard.stripe.com/account/apikeys (it'll look like sk_test_****)",
       "required": true
     }
   }
