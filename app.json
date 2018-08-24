@@ -5,11 +5,11 @@
   "keywords": ["stripe", "oauth", "connect", "java"],
   "env": {
     "STRIPE_DEVELOPMENT_CLIENT_ID": {
-      "description": "Stripe development client ID -- find this at https://dashboard.stripe.com/account/applications/settings (it'll look like ca_****)",
+      "description": "ca_DPZjQrYMaFZByecA2xUObQGEAidyBhEi",
       "required": true
     },
     "STRIPE_TEST_SECRET_KEY": {
-      "description": "Stripe test secret key -- find this at https://dashboard.stripe.com/account/apikeys (it'll look like sk_test_****)",
+      "description": "sk_live_tSZWhuP77XJUlOr0bZr0Rzto",
       "required": true
     }
   }
