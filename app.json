@@ -5,11 +5,11 @@
   "keywords": ["stripe", "oauth", "connect", "java"],
   "env": {
     "STRIPE_DEVELOPMENT_CLIENT_ID": {
-      "description": "ca_DPZjQrYMaFZByecA2xUObQGEAidyBhEi",
+      "description": "ca_DPZjtortTrayxu2lalBUbvpk0VLDM18j",
       "required": true
     },
     "STRIPE_TEST_SECRET_KEY": {
-      "description": "sk_live_tSZWhuP77XJUlOr0bZr0Rzto",
+      "description": "sk_test_uFgCJ2UxnOlE03X6cU22LqCs",
       "required": true
     }
   }
