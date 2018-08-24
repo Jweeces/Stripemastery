@@ -36,8 +36,8 @@ public final class ExampleStripeJava8OAuth {
         Map<String, String> env = System.getenv();
 
         // Retrieve Stripe platform's client ID and secret API key
-        final String clientId = env.get("STRIPE_DEVELOPMENT_CLIENT_ID");
-        final String apiKey = env.get("STRIPE_TEST_SECRET_KEY");
+        final String clientId = env.get("ca_DPZjtortTrayxu2lalBUbvpk0VLDM18j");
+        final String apiKey = env.get("sk_test_uFgCJ2UxnOlE03X6cU22LqCs");
 
         // Set the webserver's port, if necessary
         if (env.containsKey("PORT")) {
